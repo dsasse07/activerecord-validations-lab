@@ -17,3 +17,5 @@ end
 
 group :development do
 end
+
+gem 'learn-co'
